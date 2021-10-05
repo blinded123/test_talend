@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_59TAwBw_Eey_uOq1-jZG0w" label="Sample_Maven" description="" language="java" technicalLabel="SAMPLE_MAVEN" local="true" author="_59TAwRw_Eey_uOq1-jZG0w" productVersion="Talend Data Fabric-7.3.1.20210623_0656-patch" type="MDM" itemsRelationVersion="1.3">
+    <migrationTask xmi:id="_6ChfABw_Eey_uOq1-jZG0w" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_59TAwRw_Eey_uOq1-jZG0w" login="jgavina@solvento.local" password="D41D8CD98F00B204E9800998ECF8427E" authenticationInfo="amdhdmluYUBzb2x2ZW50by5sb2NhbA==:" ldapLogin="Jayar Gavina" ldapId="CN=Jayar Gavina,OU=Talend Users,DC=solvento,DC=local"/>
+</xmi:XMI>
